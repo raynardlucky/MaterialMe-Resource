@@ -1,0 +1,4 @@
+#Fri Mar 22 14:05:13 ICT 2019
+base.0=E\:\\KULIAH\\ITHB\\SEMESTER_6\\PAM\\MaterialMe-Starter\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\9
+path.0=classes.dex
+renamed.0=classes.dex
